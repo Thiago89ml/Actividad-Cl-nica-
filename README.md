@@ -1,6 +1,6 @@
-Datos a tomar en ceunta:
+Datos a tener en cuenta:
 
-1)Aquellas personas con una edad de 60 años o menor sin importar los tienden a no llegar al 70% de la probabilidad.
-2)En caso de tener 70 años o más se reiquiere que el individuo  pase mas de 30 días para no llegar al 70%
-3)Los individuos que tienen menos del rango de los 60 años pueden estar solo 5 dias en la clínica sin llegar al 70% de mortalidad.
-4)Los inviduos que poseen una edad mayor o igual a los 80 años tienden a pasar con gran facilidad el 70% de mortalidad y necesitan una cantidad de dias,pudiendo ser desde un mes y medio, hasta 2 meses completos.
+Las personas de 60 años o menos, independientemente de otros factores, tienden a no alcanzar el 70% de probabilidad de mortalidad.
+Las personas de 70 años o más requieren permanecer más de 30 días en la clínica para no alcanzar el 70% de probabilidad de mortalidad.
+Los individuos menores de 60 años pueden permanecer solo 5 días en la clínica sin alcanzar el 70% de probabilidad de mortalidad.
+Los individuos de 80 años o más tienden a superar con facilidad el 70% de probabilidad de mortalidad y requieren una estancia de entre un mes y medio y dos meses completos.
